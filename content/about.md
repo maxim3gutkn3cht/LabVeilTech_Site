@@ -9,7 +9,7 @@ author = "Maxime Gutknecht"
 ## Mon domaine
 Durant mes études à la HEIG, j’ai pu découvrir pleins de domaines intéressants, mais si je dois en retenir quelques uns, ce serait le marketing/communication et la gestion de projets. Étnt de nature très organisé et aimant prendre le lead sur des projets de groupes. Je souhaite me diriger vers un métier dans le management, j’ai retenu celui de brand manager qui m’intéresse fortement. Etant musicien dans l’ame, j’aimerais beaucoup travailler dans le domaine de la musique, pour un festival, une radio ou encore un studio.
 
-![Ikigai](/Ikigai.png)
+![Ikigai](https://maxim3gutkn3cht.github.io/LabVeilTech_Site/images/Ikigai.png)
 
 ## Choix SSG
 
