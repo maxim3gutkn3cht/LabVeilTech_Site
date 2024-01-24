@@ -1,7 +1,7 @@
 +++
 author = "Maxime Gutknecht"
 title = "Brand manager of the year"
-date = "2024-01-17"
+date = "2024-01-20"
 description = "concours du brand manager of the year"
 +++
 

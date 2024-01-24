@@ -1,9 +1,9 @@
----
-author: Maxime Gutknecht
-title: Expérimentation de l'outil Canva pour ma marque "Griffon Concept"
-date: 2024-24-01
-description: Utilisation de l'outil canva pour ma marque
----
++++
+author = "Maxime Gutknecht"
+title = "Expérimentation de l'outil Canva pour ma marque Griffon Concept"
+date = "2024-01-24"
+description = "Utilisation de l'outil canva pour ma marque"
++++
 
 En tant que propriétaire de "Griffon Concept", ma marque spécialisée dans l'organisation d'événements, la sonorisation et l'éclairage, l'outil de conception Canva que j'ai découvert il y a environ 1 année, s'est avéré être mon allié incontournable dans la gestion de la marque. Dans cet article, je partagerai comment j'ai utilisé Canva pour renforcer et promouvoir l'identité visuelle de Griffon Concept, soulignant à la fois les aspects positifs et les défis rencontrés.
 
@@ -35,6 +35,6 @@ Canva a révolutionné la manière dont je crée les éléments visuels de ma ma
 
 2. **Dépendance à Internet :** En tant qu'outil basé sur le cloud, l'accès à une connexion Internet est nécessaire, ce qui peut être un défi dans des environnements avec une connectivité limitée, comme par exemple dans le train ou l'outil bug parfois.
 
-3. ** L'outil est vite payant:** Pour pouvoir être libre sur le logiciel et utiliser tout les outils intégrés, j'ai rapidement du payer. Le prix est d'environ 12.- par mois ce qui reste correct par rapport aux logiciels d'adobes mais c'est un point à noter.
+3. **L'outil est vite payant :** Pour pouvoir être libre sur le logiciel et utiliser tout les outils intégrés, j'ai rapidement du payer. Le prix est d'environ 12.- par mois ce qui reste correct par rapport aux logiciels d'adobes mais c'est un point à noter.
 
 En résumé, mon expérience avec Canva dans la gestion de ma marque "Griffon Concept" a été extrêmement positive, offrant une solution accessible et efficace pour la création de visuels accrocheurs. Cependant, la reconnaissance de ses limites m'a encouragé à compléter son utilisation avec d'autres outils lorsque des besoins de conception plus complexes se présentent. Pour les réseaux sociaux etc... Il s'avère être un super outil, qui parfois à ses limites notemment pour le montage vidéo et audio qu'il ne gère pas encore bien.

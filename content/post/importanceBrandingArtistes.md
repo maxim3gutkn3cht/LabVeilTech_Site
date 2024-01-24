@@ -1,7 +1,7 @@
 +++
 author = "Maxime Gutknecht"
 title = "l’importance du branding pour les artistes"
-date = "2024-01-17"
+date = "2024-01-22"
 description = "l'importance du branding pour les artistes"
 +++
 
